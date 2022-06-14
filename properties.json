@@ -5,7 +5,7 @@
   "data_sources": [
     {
       "name": "AVMOO 日本",
-      "link": "https://avmoo.sbs",
+      "link": "https://avmoo.click",
       "legacies":[
       ]
     },
@@ -17,7 +17,7 @@
     },
 	{
       "name": "AVMOO 欧美",
-      "link": "https://avmemo.asia",
+      "link": "https://avmemo.click",
       "legacies":[
 	  ]
 	}
